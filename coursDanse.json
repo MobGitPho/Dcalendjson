@@ -55,8 +55,8 @@
   },
   "vendredi": {
     "7:10": [
-      { "id": "K2", "name": "Kiz 2", "price": 20, "jour": 4 },
-      { "id": "B3", "name": "Bachatat 3", "price": 30, "jour": 4 }
+      { "id": "K2", "name": "Kiz 2", "price": 20, "jour": 5 },
+      { "id": "B3", "name": "Bachatat 3", "price": 30, "jour": 5 }
     ],
     "11:14": [],
     "16:18": [],
